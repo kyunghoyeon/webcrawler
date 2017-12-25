@@ -1,0 +1,21 @@
+{
+  "name": "webcrawler",
+  "version": "0.0.1",
+  "description": "webcrawler",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyunghoyeon/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyunghoyeon/webcrawler/issues"
+  },
+  "homepage": "https://github.com/kyunghoyeon/webcrawler#readme"
+}
